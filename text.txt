@@ -1,0 +1,2 @@
+Hi this is a file with some text
+Ok so this is the second line I am writing on my file.
